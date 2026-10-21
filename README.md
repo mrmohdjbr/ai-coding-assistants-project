@@ -8,7 +8,7 @@
 This project explores how AI coding assistants such as GitHub Copilot are changing software development. We will discuss how these tools help developers, their limitations and risks, and their impact on the future of programming.
 
 ## YouTube Video
-Coming soon
+https://youtu.be/ak9SSeLlH6o
 
 ## Team Roles
 - Mohamed: Research and benefits of AI coding assistants
