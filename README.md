@@ -7,9 +7,10 @@
 ## Topic Summary
 This project explores how AI coding assistants such as GitHub Copilot are changing software development. We will discuss how these tools help developers, their limitations and risks, and their impact on the future of programming.
 
-## YouTube Video
-https://youtu.be/ak9SSeLlH6o
+## Presentation Video
+
+[Watch the final presentation on YouTube](https://youtu.be/ak9SSeLIH6o?si=Y1WAuvEg-Hp2qzQf)
 
 ## Team Roles
-- Mohamed: Research and benefits of AI coding assistants
-- Partner: Risks, limitations, and conclusion
+- Mohamed Ali: Research and benefits of AI coding assistants
+- Sheharyar Humayun: Risks, limitations, and conclusion
