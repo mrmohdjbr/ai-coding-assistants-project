@@ -9,7 +9,7 @@ This project explores how AI coding assistants such as GitHub Copilot are changi
 
 ## Presentation Video
 
-[Watch the final presentation on YouTube](https://youtu.be/ak9SSeLIH6o?si=Y1WAuvEg-Hp2qzQf)
+[Watch the final presentation on YouTube](https://youtu.be/ak9SSeLlH6o)
 
 ## Team Roles
 - Mohamed Ali: Research and benefits of AI coding assistants
